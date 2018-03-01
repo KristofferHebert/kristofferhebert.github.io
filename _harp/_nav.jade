@@ -1,0 +1,23 @@
+- var selected = "/" + current.path[0] + "/";
+- var menu = { 'Articles': 'https://medium.com/@khbrt'};
+# - var menu = { 'Articles': 'https://medium.com/@khbrt', 'My Work': '/work/', 'Contact': '/contact/' };
+
+
+header.main-nav
+  div.wrapper
+    div.row
+      h1(class="fourth logo")
+        a(href="/") kristofferhebert.com - Seattle Fullstack Javascript Developer
+      a(href="#",class="menu-icon btn fr")
+        img(src="/images/hamburger.svg", class="fr", height="24", width="24")
+      nav(class="three-fourths navdrawer-container")
+        h4 Menu
+        ul.menu
+          each val, key in menu
+            li
+                if selected === val
+                  a.selected(href=val, title=key)= key
+                else if "Articles" === key
+                    a(href=val, title=key, target="_blank")= key
+                else
+                  a(href=val, title=key)= key

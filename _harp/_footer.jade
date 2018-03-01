@@ -1,0 +1,31 @@
+- var today = new Date();
+- var year = today.getFullYear();
+
+footer.main-footer
+  section.wrapper
+    .row
+      .half.break-medium
+        p(class="small mt") &copy; 2007 - #{year}
+          &nbsp;
+          a(href="/") kristoffehebert.com
+          &nbsp;
+          | All rights reserved.
+          &nbsp;
+      .half.break-medium
+        .social-icons
+            a(href="https://github.com/kristofferhebert", class="icon github")
+              i(class="fa fa-github mrs")
+              | Github
+            &nbsp;
+            a(href="https://www.linkedin.com/pub/kristoffer-hebert/28/17b/51", class="icon linkedin")
+              i(class="fa fa-linkedin-square mrs")
+              | LinkedIn
+            &nbsp;
+            a(href="https://twitter.com/khbrt", class="icon linkedin")
+              i(class="fa fa-twitter mrs")
+              | Twitter
+            a(href="https://www.medium.com/@khbrt", class="icon medium")
+              i(class="fa fa-medium mrs")
+              | Medium
+script(src="//cdnjs.cloudflare.com/ajax/libs/angular.js/1.3.8/angular.min.js")
+script(src="/js/main.js")

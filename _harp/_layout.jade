@@ -1,0 +1,9 @@
+doctype
+html(lang="en")
+  include _head.jade
+  body(ng-app="app")
+    include _nav.jade
+    main(class="main-content")
+      section.wrapper
+        != yield
+    include _footer.jade

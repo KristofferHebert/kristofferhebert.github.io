@@ -1,0 +1,42 @@
+{
+    "cultofcurry": {
+        "title": "cultofcurry.com",
+        "completed": "2014",
+        "skills": ["HTML5", "CSS3", "AngularJS", "Mobile Friendly", "GeoLocation", "Yelp API"]
+    },
+    "angularwork": {
+        "title": "angularwork.com",
+        "completed": "2014",
+        "skills": ["HTML5", "CSS3", "AngularJS", "Mobile Friendly", "Indeed API"]
+    },
+    "staychain": {
+        "title": "staychain.com",
+        "completed": "2014",
+        "skills": ["HTML5", "CSS3", "AngularJS", "Mobile Friendly", "FireBase"]
+    },
+    "thankful": {
+        "title": "thankful.io",
+        "completed": "2014",
+        "skills": ["HTML5", "CSS3", "AngularJS", "Mobile Friendly", "Twitter API", "NodeJS", "Socket.io"]
+    },
+    "desktopenvy": {
+        "title": "desktopenvy.com",
+        "completed": "2014",
+        "skills": ["HTML5", "CSS3", "AngularJS", "Mobile Friendly", "NodeJS", "Imgur API"]
+    },
+     "overtherainbowhotairballoonrides": {
+        "title": "overtherainbowhotairballoonrides.com",
+        "completed": "2014",
+        "skills": ["HTML5", "CSS3", "Foundation", "Mobile Friendly", "WordPress"]
+    },
+     "wickedwraps": {
+        "title": "wickedwraps.com",
+        "completed": "2013",
+        "skills": ["HTML5", "CSS3", "Mobile Friendly", "WordPress"]
+    },
+    "lessthemes": {
+        "title": "lessthemes.com",
+        "completed": "2013",
+        "skills": ["XHTML", "CSS", "Mobile Friendly", "WordPress"]
+    }
+}

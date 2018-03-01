@@ -1,0 +1,28 @@
+- delete public.work._data['index']
+- works = []
+for work, slug in public.work._data
+  - work.slug = slug
+  - works.push(public.work._data[slug])
+each work, i in works
+  if work.slug == current.source
+      - prev = works[i - 1]
+      - next = works[i + 1]
+
+aside(class="fourth bg-gray pbs rounded")
+  h4 Completed
+  ul.list-unstyled
+    li= completed
+  hr
+  h4.pt0 Skills
+  ul
+    each val, key in skills
+      li= val
+  hr
+  if next
+    a(class="btn btn-block full", href="#{ next.slug }.html")
+      | next
+      i(class="fa fa-chevron-right mls")
+  if prev
+    a(class="btn btn-block full", href="#{ prev.slug }.html")
+      i(class="fa fa-chevron-left mrs")
+      | prev

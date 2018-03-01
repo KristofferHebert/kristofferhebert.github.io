@@ -1,0 +1,1 @@
+[Angular Work](http://angularwork.com) is a single page app, powered by Indeed API. The website helps people find AngularJS related jobs near them, sorted by location and date.

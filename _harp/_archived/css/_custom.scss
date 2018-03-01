@@ -1,0 +1,107 @@
+/* ==========================================================================
+   Site styles
+   ========================================================================== */
+/* ==========================================================================
+   Media Queries
+
+   - Medium and large
+   - Medium
+   - Large
+   ========================================================================== */
+
+body {
+    border-top: 3px solid $color-primary;
+}
+.logo {
+    @extend .mb0;
+    @extend .pt0;
+}
+.logo a {
+    @extend .hidetext;
+    background: url('../images/logo.png') no-repeat center center $color-black;
+    display: block;
+    background-size: contain;
+}
+.fourth.logo {
+    width: 220px;
+}
+.main-nav {
+    border-bottom: 1px solid $color-gray;
+    height: calc-em(74px);
+}
+.main-nav, .main-content .wrapper {
+    background: $color-white;
+}
+.main-content {
+    background-color: $color-gray-light;
+}
+.main-content, .main-content .wrapper {
+    @extend .ptl;
+    @extend .pbl;
+}
+.main-footer {
+    color: $color-white;
+}
+
+.slide {
+    width: 100%
+}
+
+.social-icons a {
+    @extend .btn;
+    @extend .btn-secondary;
+    font-size: calc-em(18px);
+    display:block;
+    margin-right: 0;
+    margin-bottom: 0;
+}
+.main-content img.portfolio {
+    width: 100%;
+    height: auto;
+    max-width: calc-em(320px);
+    display: block;
+    margin: auto;
+}
+
+body .mobile-centered {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    float: none;
+}
+
+/* Medium and Up - Targets everything larger than mobile
+   ========================================================================== */
+
+@include break(medium-and-large) {
+    .logo {
+        float:left;
+    }
+    .fourth.logo {
+        width: 25%;
+    }
+    body .mobile-centered {
+        margin-left: inherit;
+        margin-right: inherit;
+        display: inherit;
+        float: inherit;
+    }
+}
+/* Medium - only targets 1st breakpoint. Styles
+   ========================================================================== */
+
+@include break(medium) {}
+/* Large - only targets 2nd breakpoint.
+   ========================================================================== */
+
+@include break(large) {
+    .social-icons {
+        float: right;
+        margin-top: calc-em(30px);
+    }
+    .social-icons a {
+        display: initial;
+        font-size: calc-em(14px);
+        @extend .mls;
+    }
+}

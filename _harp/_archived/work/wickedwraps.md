@@ -1,0 +1,1 @@
+[Wicked Wraps](http://wickedwraps.com) website was redesigned in 2014. My work helped them get more leads via their redesigned online presense and SEO improvements.

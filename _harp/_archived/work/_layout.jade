@@ -1,0 +1,29 @@
+- var workhomepage = current.path[1] == "index"
+- delete public.work._data['index']
+
+doctype
+html(lang="en")
+  include ../_head.jade
+  body
+    include ../_nav.jade
+    main(class="main-content")
+      section.wrapper
+        div.row
+        if workhomepage
+          for work, slug in public.work._data
+            div(class="third tc mb")
+              a(class="mb",href="/work/#{slug}.html")
+                img(src="/images/thumb/#{slug}.jpg", class="portfolio")
+                span= work.title
+        else
+          div.three-fourths
+            div.slideshow
+              img(src="/images/slideshow/#{current.path[1]}.jpg", class="slide")
+              if slides
+                each val, key in slides
+                  img(src="/images/slideshow/#{current.path[1]}-#{val}.jpg", class="slide")
+              hr.mt.mbs
+            h2 #{current.path[1]}
+            != yield
+          include _sidebar.jade
+    include ../_footer.jade

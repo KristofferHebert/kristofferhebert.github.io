@@ -1,0 +1,12 @@
+works = []
+for work, slug in public.work._data
+  - work.slug = slug
+  - works.push(public.work._data[slug])
+each work, i in works
+  if work.slug == current.source
+      - prev = works[i - 1]
+      - next = works[i + 1]
+      if prev
+        a(href="#{ prev.slug }.html") &larr; #{ prev.title }
+      if next
+        a(href="#{ next.slug }.html") #{ next.title } &rarr;

@@ -1,0 +1,18 @@
+div.row
+  div.two-thirds.aligncenter.tc
+    h1.mb0 Do you want more sales<br />from your website?
+    h3.mb.primaryfont Discover how with a short complementary<br />video teardown of your website.
+div.row
+  div.step-1
+    div(ng-controller="teardownForm", class="two-thirds mt pt pb bg-red fn")
+      form(ng-submit="sendTeardown(contact)", ng-show="contactform")
+        p.mbs.tc
+          em Enter your information below and I’ll contact you shortly.
+        label(hidden) Your website URL
+        input(type="text", class="mrs", placeholder="Your website URL", ng-model="contact.website",required)
+        label(hidden) Email
+        input(type="email", class="mrs", placeholder="Your email" ng-model="contact.email",required)
+        input(class="btn", type="submit")
+      div(ng-hide="contactform")
+        h3 Success!
+          p Form submited, someone will contact you shortly!

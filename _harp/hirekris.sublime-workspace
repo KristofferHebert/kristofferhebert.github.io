@@ -1,0 +1,1092 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bac",
+				"background"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"box-",
+				"box-shadow:   (property)"
+			],
+			[
+				"a",
+				"alt	Attr"
+			],
+			[
+				"c",
+				"cover  (value)"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"box-sizing",
+				"box-sizing:   (property)"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"4px",
+				"48px"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"text-",
+				"text-indent"
+			],
+			[
+				"border-",
+				"border-width"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"transi",
+				"transition:   (property)"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"new",
+				"newhtmlCode  (variable)"
+			],
+			[
+				"elment",
+				"angular.element"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"fon",
+				"font"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"watch",
+				"angular: $watch"
+			],
+			[
+				"http",
+				"angular: $http"
+			],
+			[
+				"findby",
+				"findByUsername"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"d",
+				"directive	Angular.js"
+			],
+			[
+				"chain",
+				"chainDescription"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"to",
+				"toDateString  (function)"
+			],
+			[
+				"ng-",
+				"ng-disabled=  (attribute)"
+			],
+			[
+				"curren",
+				"currentUser"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"factory",
+				"factory	Angular.js"
+			],
+			[
+				"controll",
+				"angular: controller"
+			],
+			[
+				"routeP",
+				"angular: $routeProvider"
+			],
+			[
+				"direc",
+				"directive	Angular.js"
+			],
+			[
+				"p",
+				"padding-left"
+			],
+			[
+				"get",
+				"getDay  (function)"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"contro",
+				"controller	Angular.js"
+			],
+			[
+				"element",
+				"angular.element"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"t",
+				"type	Attr"
+			],
+			[
+				"ang",
+				"angular.module"
+			],
+			[
+				"fato",
+				"factory	Angular.js"
+			],
+			[
+				"angul",
+				"angular: $http"
+			],
+			[
+				"cont",
+				"$controller	AngularJS"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"wid",
+				"width:   (property)"
+			],
+			[
+				"w",
+				"width:   (property)"
+			],
+			[
+				"overflow-",
+				"overflow-y:   (property)"
+			],
+			[
+				"s",
+				"sans-serif  (value)"
+			],
+			[
+				"no",
+				"no-repeat  (value)"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"quer",
+				"query"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"l",
+				"location  (variable)"
+			],
+			[
+				"cl",
+				"class"
+			],
+			[
+				"re",
+				"results"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"i",
+				"id=  (attribute)"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"f",
+				"function"
+			],
+			[
+				"overflow",
+				"overflow:   (property)"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"pt",
+				"padding-top"
+			],
+			[
+				"backgroud-",
+				"background-size"
+			],
+			[
+				"create",
+				"createTodo"
+			],
+			[
+				"json",
+				"jsonp"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"function",
+				"  objects with a length property (such as a function's"
+			],
+			[
+				"each",
+				"each  (function)"
+			],
+			[
+				"fo",
+				"for	for (…) {…}"
+			],
+			[
+				"g",
+				"getElementbyId"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_footer.jade",
+			"settings":
+			{
+				"buffer_size": 938,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/_buttons.scss",
+			"settings":
+			{
+				"buffer_size": 1986,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/_custom.scss",
+			"settings":
+			{
+				"buffer_size": 2044,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"par",
+				"Package Control: Add Repository"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pret",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"html",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"pretty",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"sft",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sftp",
+				"SFTP: Map to Remote…"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"packg",
+				"Package Control: Install Package"
+			],
+			[
+				"PACKIN	",
+				"Package Control: Install Package"
+			],
+			[
+				"pA",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pak",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 588.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"clear",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/khebert/Sites/portfolio/public",
+		"/Users/khebert/Sites/portfolio/public/css"
+	],
+	"file_history":
+	[
+		"/Users/khebert/Sites/portfolio/public/hirekris",
+		"/Users/khebert/Sites/energysavvyapplication/sass/_helpers.scss",
+		"/Users/khebert/Sites/energysavvyapplication/sass/main.scss",
+		"/Users/khebert/Sites/energysavvyapplication/sass/_custom.scss",
+		"/Users/khebert/Sites/energysavvyapplication/sass/_buttons.scss",
+		"/Users/khebert/Sites/energysavvyapplication/sass/_grid.scss",
+		"/Users/khebert/Sites/energysavvyapplication/sass/_type.scss",
+		"/Users/khebert/Sites/northerneconomics/js/main.js",
+		"/Users/khebert/Sites/energysavvyapplication/sass/_config.scss",
+		"/Users/khebert/Sites/northerneconomics/index.html",
+		"/Users/khebert/Sites/energysavvyapplication/index.html",
+		"/Users/khebert/Sites/energysavvyapplication/sass/_menu.scss",
+		"/Users/khebert/Sites/northerneconomics/sass/_config.scss",
+		"/Users/khebert/Sites/northerneconomics/sass/_type.scss",
+		"/Users/khebert/Sites/northerneconomics/node_modules/gulp/node_modules/liftoff/lib/parse_options.js",
+		"/Users/khebert/Sites/udemy/nodejs/zero-to-hero/notherneconomics",
+		"/Users/khebert/Sites/northerneconomics/sass/main.scss",
+		"/Users/khebert/Sites/northerneconomics/sass/_menu.scss",
+		"/Users/khebert/Sites/northerneconomics/sass/_custom.scss",
+		"/Users/khebert/Sites/northerneconomics/sass/_grid.scss",
+		"/Users/khebert/Work/business/coverletter3.txt",
+		"/Users/khebert/Sites/udemy/nodejs/zero-to-hero/mongochat/app.js",
+		"/Users/khebert/Sites/udemy/nodejs/zero-to-hero/express-chat/app.js",
+		"/Users/khebert/Sites/udemy/nodejs/zero-to-hero/oauth/app.js",
+		"/Users/khebert/Downloads/everyauth/app.js",
+		"/Users/khebert/Sites/udemy/nodejs/zero-to-hero/oauth/error-handler/app.js",
+		"/Users/khebert/Sites/udemy/nodejs/zero-to-hero/express-helloworld/app.js",
+		"/Users/khebert/Sites/northerneconomics/gulpfile.js",
+		"/Users/khebert/Sites/kui/sass/_grid.scss",
+		"/Users/khebert/Sites/northerneconomics/sass/_code.scss",
+		"/Users/khebert/Sites/udemy/nodejs/zero-to-hero/notes.txt",
+		"/Users/khebert/Downloads/apollo-creed-ux/workflowRunList.json",
+		"/Users/khebert/Downloads/apollo-creed-ux/workflowList.json",
+		"/Users/khebert/Downloads/apollo-creed-ux/webapp/partials/workflow-list.html",
+		"/Users/khebert/Sites/emaw/sass/main.scss",
+		"/Users/khebert/Sites/emaw/sass/_menu.scss",
+		"/Users/khebert/Sites/emaw/sass/_config.scss",
+		"/Users/khebert/Sites/emaw/sass/_custom.scss",
+		"/Users/khebert/Sites/emaw/sass/_buttons.scss",
+		"/Users/khebert/Sites/emaw/sass/_helpers.scss",
+		"/Users/khebert/Sites/emaw/sass/_type.scss",
+		"/Users/khebert/Downloads/angularuxdetails/workflowList.json",
+		"/Users/khebert/Downloads/apollo-creed-ux/webapp/js/controllers.js",
+		"/Users/khebert/Downloads/apollo-creed-ux/workflowRunDetail.json",
+		"/Users/khebert/Downloads/apollo-creed-ux/webapp/partials/workflow-detail.html",
+		"/Users/khebert/Downloads/apollo-creed-ux/webapp/js/app.js",
+		"/Users/khebert/Downloads/apollo-creed-ux/webapp/index.jsp",
+		"/Users/khebert/Sites/emaw/emaw",
+		"/Users/khebert/Sites/kui/sass/_menu.scss",
+		"/Users/khebert/Sites/kui/gulpfile.js",
+		"/Users/khebert/Sites/kui/sass/_custom.scss",
+		"/Users/khebert/Sites/kui/node_modules/browser-sync/lib/config.js",
+		"/Users/khebert/Sites/kui/sass/_helpers.scss",
+		"/Users/khebert/Sites/kui/sass/_config.scss",
+		"/Users/khebert/Sites/kui/sass/_type.scss",
+		"/Users/khebert/Sites/kui/sass/_code.scss",
+		"/Users/khebert/Sites/kui/sass/_spacing.scss",
+		"/Users/khebert/Sites/kui/sass/main.scss",
+		"/Users/khebert/Sites/kui/js/main.js",
+		"/Users/khebert/Sites/kui/index.html",
+		"/Users/khebert/Sites/kui/node_modules/gulp-imagemin/node_modules/imagemin/node_modules/imagemin-svgo/node_modules/svgo/plugins/moveElemsAttrsToGroup.js",
+		"/Users/khebert/Sites/kui/node_modules/gulp-util/lib/isNull.js",
+		"/Users/khebert/Library/Application Support/Sublime Text 3/Packages/Emmet/Default (OSX).sublime-keymap",
+		"/Users/khebert/Sites/kui/node_modules/gulp-sass/node_modules/node-sass/test/sass-spec/spec/todo/types/expected_output.css",
+		"/Users/khebert/Sites/kui/sass/lib/_forms.scss",
+		"/Users/khebert/Sites/kui/sass/_debug.scss",
+		"/Users/khebert/Work/client/caffeinatedcommunications/colocationamerica/backup/stage/flawless-v1-16/footer.php",
+		"/Users/khebert/Sites/kui/sass/_misc.scss",
+		"/Users/khebert/Sites/kui/sass/_forms.scss",
+		"/Users/khebert/Sites/kui/sass/_buttons.scss",
+		"/Users/khebert/Sites/kui/sass/_styles.scss",
+		"/Users/khebert/Sites/kui/node_modules/browser-sync/node_modules/socket.io/node_modules/engine.io/node_modules/ws/build/config.gypi",
+		"/Users/khebert/Sites/kui/node_modules/gulp-csslint/node_modules/event-stream/test/stringify.js",
+		"/Users/khebert/Sites/kui/node_modules/gulp/completion/fish",
+		"/Users/khebert/Sites/kui/node_modules/gulp-sass/node_modules/node-sass/test/sass-spec/spec/todo/bourbon/lib/addons/_font-family.scss",
+		"/Users/khebert/Sites/kui/node_modules/browser-sync/lib/cli/cli-options.js",
+		"/Users/khebert/Sites/kui/node_modules/gulp/CHANGELOG.md",
+		"/Users/khebert/Sites/kui/node_modules/browser-sync/node_modules/socket.io/node_modules/engine.io/node_modules/ws/lib/BufferUtil.js",
+		"/Users/khebert/Sites/kui/node_modules/.bin/browser-sync",
+		"/Users/khebert/Sites/kui/sass/_mixins.scss",
+		"/Users/khebert/Sites/kui/node_modules/browser-sync/lib/tunnel.js",
+		"/Users/khebert/Sites/kui/.gitignore",
+		"/Users/khebert/Sites/kui/sass/npm-debug.log",
+		"/Users/khebert/Sites/kui/css/mnml.min.css",
+		"/Users/khebert/Sites/kui/sass/mnml.scss",
+		"/Users/khebert/Sites/api-server/assets/robots.txt",
+		"/Users/khebert/Sites/test-sails/config/models.js",
+		"/Users/khebert/Sites/test-sails/api/controllers/UserController.js",
+		"/Users/khebert/Sites/template-test/server.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/colocation/wp-content/themes/flawless-v1-16/stylesheet/style-custom.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/colocation/wp-content/themes/flawless-v1-16/stylesheet/OpenSans-Regular.ttf",
+		"/Applications/XAMPP/xamppfiles/htdocs/colocation/wp-content/themes/flawless-v1-16/stylesheet/style-responsive.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/colocation/wp-content/themes/flawless-v1-16/header copy.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/colocation/wp-content/themes/flawless-v1-16/footer.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/colocation/wp-content/themes/flawless-v1-16/header.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/colocation/wp-config.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/colocation/wp-content/themes/flawless-v1-16/-stylesheet/style-custom.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/colocation/wp-content/plugins/popularity-posts-widget/style/style-one.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/colocation/wp-content/themes/flawless-v1-16/style-updated.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/colocation/wp-content/themes/apenines/style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/colocation/wp-admin/network/site-themes.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/colocation/sftp-config.json",
+		"/Users/khebert/Desktop/chat-bar/chatbar.html",
+		"/Users/khebert/Desktop/velaro/prechatsurvey.html",
+		"/Users/khebert/Desktop/images/sprites.css",
+		"/Users/khebert/Desktop/images/index.html",
+		"/var/folders/xd/vwv2g4t570562tftf7y49nxc0000gn/T/sublime-sftp-browse-1416094926/mapped/var/www/staging/wp-config.php",
+		"/var/folders/xd/vwv2g4t570562tftf7y49nxc0000gn/T/sublime-sftp-browse-1416094536/mapped/var/www/html/wp-config.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/colocation/wp-content/index.php",
+		"/var/folders/xd/vwv2g4t570562tftf7y49nxc0000gn/T/sublime-sftp-browse-1416093481/mapped/var/www/html/wp-config.php",
+		"/var/folders/xd/vwv2g4t570562tftf7y49nxc0000gn/T/sublime-sftp-browse-1416093887/mapped/var/www/html/wp-config.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/colocation/wp-content/themes/flawless-v1-16/single.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/colocation/wp-content/themes/flawless-v1-16/single/content.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/colocation/wp-content/themes/flawless-v1-16/include/function/gdlr-blog-item.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/colocation/wp-content/themes/flawless-v1-16/single/thumbnail-image.php",
+		"/Users/khebert/Sites/node-yelp/server.js",
+		"/Users/khebert/Downloads/fwddeveloperprojectsendhourseta/gameV04.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/game/gameV04.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/colocation/wp-content/themes/flawless-v1-16/page-242.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/colocation/wp-content/themes/twentyfourteen/functions.php",
+		"/Users/khebert/Desktop/html/localhost/colocation/about-us.html",
+		"/Users/khebert/Desktop/html/localhost/colocation.1.html",
+		"/Users/khebert/Desktop/html/localhost/colocation/blog.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/colocation/wp-content/themes/flawless-v1-16/single/content-widget.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/colocation/wp-content/themes/flawless-v1-16/single/thumbnail.php",
+		"/Users/khebert/Desktop/index.html",
+		"/Users/khebert/Library/Application Support/Sublime Text 3/Packages/User/SFTP.errors.log",
+		"/Applications/XAMPP/xamppfiles/htdocs/firepr/wp-activate.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			"/Applications/XAMPP/xamppfiles/htdocs/colocation/wp-content/themes/flawless-v1-16",
+			"/Users/khebert/Sites/thinkful/assignments/staychainv2/,/Applications/XAMPP/xamppfiles/htdocs/colocation/wp-content/themes/flawless-v1-16",
+			"/Users/khebert/Sites/thinkful/assignments/staychainv2/",
+			"/Users/khebert/Sites/thinkful/assignments/staychainv1/app/style",
+			"/Users/khebert/Sites/thinkful/assignments/staychainv1/app/styles/components",
+			"/Users/khebert/Sites/wordpress/wp-content/themes/",
+			"/Users/khebert/Sites/wordpress/wp-content/themes",
+			"/Users/khebert/Desktop/backup/summ-live-stage,/Users/khebert/Desktop/backup/summa",
+			"/Users/khebert/Desktop/backup/summ-live-stage",
+			"/Users/khebert/Sites/summa",
+			"/Users/khebert/Sites/summa,/Applications/XAMPP/xamppfiles/htdocs/summa/wp-content",
+			"/Users/khebert/Sites/summa",
+			"/Users/khebert/Desktop/summ-old",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" mrs",
+			"Integrity",
+			"integrity",
+			"normal",
+			"0",
+			"small",
+			"colum",
+			"1.4",
+			"1",
+			"banner",
+			"third",
+			"radius",
+			"border",
+			"tc",
+			"left",
+			"</article>",
+			"</header><",
+			"div",
+			"tc",
+			",",
+			" selected",
+			"div",
+			"background",
+			"\"",
+			"response",
+			"reques",
+			"obj",
+			"sub-menu",
+			"\n                                            ",
+			"forums",
+			"selected",
+			"\"defaultParams\":null",
+			"pl0",
+			"section",
+			"article",
+			"pbs",
+			"class=\"sprite",
+			"sprite-",
+			"255",
+			"$color-primary",
+			"section",
+			"tc",
+			"hero",
+			"desktop",
+			"pri",
+			"li",
+			"h4",
+			"-left:",
+			"right",
+			"logo",
+			"Menu",
+			"menu",
+			"main-nav ",
+			"main-nav",
+			"20",
+			"#000",
+			"radius",
+			"section",
+			"32",
+			"container",
+			"clearfix",
+			";\n",
+			"menu",
+			"h1",
+			"radius",
+			"border-radius",
+			"$color-primary",
+			"mnml",
+			"=\"{'':",
+			"active",
+			"modal",
+			"showModal",
+			"wp_title",
+			"<h3 class=\"gdlr-blog-title\" style=\"margin-bottom:5px;\">",
+			"single-content",
+			"gdlr-ux gdlr-blog-full-ux",
+			"gdlr-standard-style",
+			"blog",
+			"headerphone",
+			"margin-right:20px; float: left;",
+			"errors",
+			"compliant",
+			"images",
+			"i",
+			"compliant",
+			"class=\"blog-info blog-category\"",
+			"class=\"gdlr-blog-info gdlr-info\"",
+			"gdlr-blog-thumbnail",
+			"post-he",
+			"style",
+			"main-content",
+			"container",
+			"gameV04",
+			"the_content",
+			".js",
+			"get_template_directory",
+			"496",
+			"wp-login",
+			".css",
+			"style.css",
+			"input",
+			"#subnav",
+			".footer",
+			"footer",
+			"icons",
+			"-1",
+			"nth",
+			"</td>",
+			"<td>",
+			"footer-widgets p",
+			"subnav",
+			"#444",
+			"column",
+			"18px",
+			"hero",
+			"920px",
+			"white",
+			"images",
+			".hero",
+			".bold",
+			"widget",
+			"center",
+			"a, a:visited",
+			"509",
+			"1em",
+			"nospace",
+			"a {",
+			"button"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"tabs-2",
+			"[/accordion]",
+			"[accordion ",
+			"[/acc_item]",
+			"[acc_item ",
+			"accordion"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_footer.jade",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 938,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								642,
+								642
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"side_bar_folders_auto_load_folder": 1,
+							"synced": false,
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/_buttons.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1986,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1107,
+								1107
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"side_bar_folders_auto_load_folder": 1,
+							"synced": false,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/_custom.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2044,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2033,
+								2033
+							]
+						],
+						"settings":
+						{
+							"auto_indent": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"side_bar_folders_auto_load_folder": 1,
+							"synced": false,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 402.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 27.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 102.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 102.0
+	},
+	"project": "hirekris.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"_conf",
+				"sass/_config.scss"
+			],
+			[
+				"",
+				"index.html"
+			],
+			[
+				"mai",
+				"js/main.js"
+			],
+			[
+				"men",
+				"sass/_menu.scss"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"_men",
+				"sass/_menu.scss"
+			],
+			[
+				"_con",
+				"sass/_config.scss"
+			],
+			[
+				"con",
+				"node_modules/browser-sync/lib/config.js"
+			],
+			[
+				"main",
+				"sass/main.scss"
+			],
+			[
+				"_h",
+				"sass/_helpers.scss"
+			],
+			[
+				"_t",
+				"sass/_type.scss"
+			],
+			[
+				"main.scs",
+				"sass/main.scss"
+			],
+			[
+				"config",
+				"sass/_config.scss"
+			],
+			[
+				"_",
+				"sass/_type.scss"
+			],
+			[
+				"conf",
+				"node_modules/browser-sync/lib/config.js"
+			],
+			[
+				"ty",
+				"sass/_type.scss"
+			],
+			[
+				"butt",
+				"sass/_buttons.scss"
+			],
+			[
+				"typ",
+				"sass/_type.scss"
+			],
+			[
+				"results",
+				"templates/results.html"
+			],
+			[
+				"style-",
+				"wp-content/themes/flawless-v1-16/-stylesheet/style-custom.css"
+			],
+			[
+				"controll",
+				"staychainv2/app/scripts/controllers.js"
+			],
+			[
+				"home.html",
+				"staychainv2/app/partials/home.html"
+			],
+			[
+				"main.css",
+				"staychain/dist/styles/main.css"
+			],
+			[
+				"mainspe",
+				"signup-directive/app/mainSpec.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Sites/overtherainbowhotairballons.com/overtherainbow.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 276.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

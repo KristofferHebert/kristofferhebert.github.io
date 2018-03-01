@@ -1,0 +1,1 @@
+I created Lessthemes.com to promote some of the WordPress themes I have developed. I closed the site in 2014, because I moved away from developing for WordPress.

@@ -1,0 +1,23 @@
+div(ng-controller="contactForm")
+  form(ng-submit="sendContact(contact)", ng-init="contact.formname='contact'")
+    div.row
+      div.two-thirds
+        div(ng-show="contactform")
+          h3.pts Contact Form
+          label(for="email") Your Email
+          input(class="full", type="email", placeholder="youremail@email.com", name="email", ng-model="contact.email" ,required)
+          label(for="reason") Reason for contact
+          select(class="full", name="reason",ng-model="contact.reason")
+            option(value="Other", ng-selected="true") Other
+            option(value="I need a Website") I need a Website
+            option(value="My Website needs help") My Website needs help
+          label(for="message",) Your Message
+          textarea(placeholder="Hello...", name="message", ng-model="contact.message", required)
+          input(class="btn input-inline", type="submit" value="submit")
+        div(ng-hide="contactform")
+            h3 Success
+            p Contact form submited, someone will contact you shortly!
+      div.third
+        p.mts.mbs Email: <a href='mai&#108;to&#58;k&#114;i&#115;t%6Fff%&#54;&#53;r&#64;&#107;&#114;&#105;%73&#116;%6&#70;ffe&#114;h&#101;bert&#37;&#50;E%63%6Fm'>kris&#116;offer&#64;kristoff&#101;r&#104;eb&#101;&#114;t&#46;c&#111;m</a>
+        p.mbs Cell: <a href="tel:&#52;&#50;&#53;&#46;&#51;&#50;&#48;&#46;&#54;&#51;&#50;&#51;">&#52;&#50;&#53;&#46;&#51;&#50;&#48;&#46;&#54;&#51;&#50;&#51;</a>
+        p Timezone: Pacific Daylight Time

@@ -1,0 +1,173 @@
+/* ==========================================================================
+   TYPE
+   - Copy
+   - Type Scale
+   ========================================================================== */
+/* Copy ========================================================================== */
+
+body {
+    font-family: $font-primary;
+    font-size: $font-size-base;
+    line-height: 1.5;
+    color: $color-black;
+    background: $color-black;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+p {
+    font-size: calc-em(18px);
+    margin: 0 0 $spacing;
+}
+a, a:visited {
+    color: $color-primary;
+    text-decoration: none;
+    word-wrap: break-word;
+}
+a:hover, a:focus, a:active, a.selected {
+    color: darken( $color-primary, 5%);
+    text-decoration: underline;
+}
+
+a:hover img {
+  border: none;
+  background: none;
+  opacity: 0.8;
+  filter: alpha(opacity=80);
+}
+
+
+/**
+ * List styling
+ */
+
+ul,
+ol,
+dl {
+  margin-top: calc-em(8px);
+  margin-bottom: $spacing;
+  margin-left: calc-em(16px);
+  padding-left: calc-em(8px);
+}
+
+ul ul,
+ul ol,
+ol ol,
+ol ul {
+  margin-bottom: 0;
+}
+
+dl {
+  margin-left: 0;
+}
+
+dt {
+  font-weight: bold;
+}
+
+.list-unstyled {
+  margin-left: 0;
+  padding-left: 0;
+  list-style: none;
+}
+
+@mixin list-inline {  
+    list-style: none;
+    margin-left: 0;
+    margin-right: 0;
+    padding: 0;
+  }
+.list-inline {
+    @include list-inline;
+}
+
+.list-inline li {
+  display: inline-block;
+  margin-right: calc-em(8px);
+}
+
+
+/* Type Scale
+   ========================================================================== */
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: $font-secondary;
+    line-height: 1.2;
+    font-weight: normal;
+    margin: 0 0 1em;
+    padding: 1em 0 0;
+    word-wrap: break-word;
+    text-transform: capitalize;
+}
+h1, .f1 {
+    padding-top: .4em;
+    font-size: calc-em(48px);
+}
+h2, .f2, h3, .f3{
+    font-size: calc-em(32px);
+    margin-bottom: .4em;
+}
+h3, .f3 {
+    font-size: calc-em(24px);
+}
+h3, .f3, h4, .f4, h5, .f5 {
+    margin-bottom: .1em;
+}
+h4, .f4, h5, .f5 {
+    font-size: calc-em(22px);
+}
+
+small, .small {
+    font-size: calc-em(16px);
+}
+hr {
+    margin: calc-em(20px) auto;
+    border: 0;
+    border-top: calc-em(1px) solid $color-gray;
+    border-bottom: 0 solid $color-white;
+}
+strong {
+    font-weight: bold;
+}
+em {
+    font-style: italic;
+}
+sub, sup {
+    position: relative;
+    font-size: 85%;
+    font-weight: bold;
+    line-height: 0;
+    vertical-align: baseline;
+    margin-left: calc-em(4px);
+}
+sup {
+    top: calc-em(-8px);
+}
+sub {
+    bottom: calc-em(-4px);
+}
+.uppercase {
+    text-transform: uppercase;
+}
+::selection {
+    color: $color-white;
+    background: $color-primary;
+}
+blockquote {
+    border-left: calc-em(4px) solid $color-gray-light;
+    margin-bottom: $spacing;
+    padding-left: $spacing;
+    padding-right: $spacing;
+}
+blockquote, q {
+    quotes: none;
+}
+blockquote:before, blockquote:after, q:before, q:after {
+    content: '';
+    content: none;
+}
+.primaryfont {
+   font-family: $font-primary
+}
+.secondfont {
+    font-family: $font-secondary;
+}

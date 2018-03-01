@@ -1,0 +1,1 @@
+[Cult of Curry](http://cultofcurry.com) is a single page app, powered by Yelp API. Cult of Curry takes an address, or your Geolocation, and gives you the top places for curry near you. You can sort by radius or rating.
